@@ -1,0 +1,1 @@
+cmd_/home/zhaocc/driverLearn/char_dev/globalmem.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-119-generic/scripts/module-common.lds --build-id  -o /home/zhaocc/driverLearn/char_dev/globalmem.ko /home/zhaocc/driverLearn/char_dev/globalmem.o /home/zhaocc/driverLearn/char_dev/globalmem.mod.o

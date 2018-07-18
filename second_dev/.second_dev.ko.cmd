@@ -1,0 +1,1 @@
+cmd_/home/zhaocc/driverLearn/second_dev/second_dev.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-121-generic/scripts/module-common.lds --build-id  -o /home/zhaocc/driverLearn/second_dev/second_dev.ko /home/zhaocc/driverLearn/second_dev/second_dev.o /home/zhaocc/driverLearn/second_dev/second_dev.mod.o
